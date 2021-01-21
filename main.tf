@@ -11,7 +11,7 @@ provider "google" {
   version = "3.5.0"
 
 
-  project = "lucas-mbaimpacta-turma04"
+  project = "oceanic-airway-302321"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
