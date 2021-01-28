@@ -15,3 +15,4 @@ variable "gcp_zone" {
   description = "Zona no GCP"
   default     = "us-central1-c"
 }
+
